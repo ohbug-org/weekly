@@ -1,0 +1,15 @@
+{
+  "name": "weekly",
+  "repository": "git@github.com:ohbug-org/weekly.git",
+  "author": "chenyueban <jasonchan0527@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@chenyueban/lint": "^0.2.11",
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
