@@ -45,10 +45,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@chenyueban/lint@^0.2.11":
-  version "0.2.11"
-  resolved "https://registry.npmjs.org/@chenyueban/lint/-/lint-0.2.11.tgz#13fc80d1ddcc4a42edb4c414b59f083cd712a8c1"
-  integrity sha512-oQd6iXmHOsBOaxpcKcPv/XCBBgH5+syZRRd5SCv6uRrOgALfMTNm7E4/WqwBj/JSDf7OXOGd8+of78zFrlHBNw==
+"@chenyueban/lint@^0.2.13":
+  version "0.2.13"
+  resolved "https://registry.npmjs.org/@chenyueban/lint/-/lint-0.2.13.tgz#53c8f8299dc932fe766bf73404f703ffedc2549b"
+  integrity sha512-EhgIYmU4XR9asjhpeXg+xrX+gADBg3pUdSM58mBof/d6alO6mN0tjd7GrKre/VQYtHFJYQCSL3EDeRybry0tyA==
   dependencies:
     "@commitlint/cli" "^12.1.1"
     "@commitlint/config-conventional" "^12.1.1"
