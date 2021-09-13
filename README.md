@@ -7,6 +7,6 @@
 
 微信搜索 「Ohbug」 或者扫描二维码，即可订阅。
 
-![](https://raw.githubusercontent.com/ohbug-org/weekly/main/qrcode.jpg)
+![](https://raw.githubusercontent.com/ohbug-org/weekly/main/qrcode.jpeg)
 
 使用 [markdown-nice](https://ohbug-org.github.io/markdown-nice/) 进行排版
