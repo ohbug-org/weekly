@@ -7,6 +7,7 @@
 
 ## 2021
 
+- [第 18 期 - Parcel 2](./docs/0018.md)
 - [第 17 期 - snowpack 作者弃坑, 转向新项目 Astro](./docs/0017.md)
 - [第 16 期 - NPM 即将被 Node.js 官方抛弃](./docs/0016.md)
 - [第 15 期 - Electron 14.0.0](./docs/0015.md)
