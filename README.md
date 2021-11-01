@@ -7,6 +7,7 @@
 
 ## 2021
 
+- [第 20 期 - Next.js v12](./docs/0020.md)
 - [第 19 期 - React 新版文档](./docs/0019.md)
 - [第 18 期 - Parcel 2](./docs/0018.md)
 - [第 17 期 - snowpack 作者弃坑, 转向新项目 Astro](./docs/0017.md)
